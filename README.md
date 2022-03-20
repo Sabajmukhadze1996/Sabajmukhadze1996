@@ -1,0 +1,5 @@
+- 👋 Hi, My name is Saba Jmukhadze, but everybody calls me T-bag;
+- 👀 I’m interested in Web Development, also Mobile Applications to;
+- 🌱 I’m currently learning React.js, because it is declarative and easy to understand;
+- 📫 How to reach me? Just Email me on sabajmukhadze23@gmail.com if you have questions;
+- My current skills are HTML5/ CSS/SASS /Bootstrap/ JavaScript(es6)/ React.js(JavaScript Library);
